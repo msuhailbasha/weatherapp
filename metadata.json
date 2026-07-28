@@ -1,0 +1,10 @@
+{
+  "name": "Weather Intelligence App",
+  "description": "A modern, responsive weather dashboard featuring city search, current conditions, interactive charts, 7-day forecast, air quality metrics, and intelligent activity & outfit planning recommendations powered by Open-Meteo.",
+  "requestFramePermissions": [
+    "geolocation"
+  ],
+  "majorCapabilities": [
+    "MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"
+  ]
+}
